@@ -6,6 +6,7 @@ echo ######################################
 echo ## Cambiar el nombre al equipo      ##
 echo ## por Marcelo T.M.                 ##
 echo ######################################
+echo El nombre del equipo actualmente es : %computername%
 set /p nombreEquipo=Escribe el nombre del equipo:
 echo El nuevo nombre del equipo sera "'%nombreEquipo%'"
 echo -----------------------------------------------

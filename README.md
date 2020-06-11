@@ -1,8 +1,8 @@
 # Becario-Starter-Pack
 
-![logo_uniovi](img/logoUniovi.jpg)
-
 Batería de scripts para facilitar las tareas a realizar por los becarios de Uniovi.
+
+![logo_uniovi](img/logoUniovi.jpg)
 
 Entre estas tareas se pueden encontrar: 
    * Programar un autoapagado.

@@ -1,4 +1,4 @@
-# Becario-Starter-Pack
+# Becaria-Uniovi-Scripts
 
 Batería de scripts para facilitar las tareas a realizar por los becarios de Uniovi.
 

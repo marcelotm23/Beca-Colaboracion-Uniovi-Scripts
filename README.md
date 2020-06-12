@@ -1,6 +1,6 @@
 # Becaria-Uniovi-Scripts
 
-Batería de scripts para facilitar las tareas a realizar por los becarios de Uniovi.
+Batería de scripts para facilitar las tareas a realizar por los becari@s de Uniovi.
 
 ![logo_uniovi](img/logoUniovi.jpg)
 
